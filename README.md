@@ -71,6 +71,7 @@ The TFT bot is available as a Windows executable for convenience. Running from s
 ### Emulator
 
 1. Make sure your emulator runs and is interactable.
+2. Make sure your emulator runs in english. (It may not work or only partially work for other languages)
 
 > [!NOTE]
 > While the bot will handle almost any scenario the app may run into, it will never log in for you.
